@@ -1,0 +1,14 @@
+Label	Weight	Text
+l_HomeAutomation	1	turn the fan to high
+l_HomeAutomation	1	turn on bathroom heater
+l_HomeAutomation	1	make camera 1 off please
+l_HomeAutomation	1	living room lamp on please
+l_HomeAutomation	1	change temperature to seventy two degrees
+l_HomeAutomation	1	living room lamps off please
+l_HomeAutomation	1	turn on external speaker
+l_HomeAutomation	1	turn on light in bedroom
+l_Weather	1	get florence temperature in september
+l_Weather	1	get the daily temperature greenwood indiana
+l_Weather	1	do florida residents usually need ice scrapers
+l_Weather	1	show me the forecast at alabama
+l_Weather	1	get the forcast for me

@@ -1,0 +1,14 @@
+Label	Weight	Text
+l_HomeAutomation	1	coffee bar on please
+l_HomeAutomation	1	dim kitchen lights to 25 .
+l_HomeAutomation	1	fish pond on please
+l_HomeAutomation	1	snap switch fan fifty percent
+l_HomeAutomation	1	turn off venice lamp
+l_HomeAutomation	1	set lights out in bedroom
+l_HomeAutomation	1	make some coffee
+l_HomeAutomation	1	turn off foyer lights
+l_Weather	1	will it be raining in ranchi
+l_Weather	1	soliciting today's weather
+l_Weather	1	will it rain this weekend
+l_Weather	1	what to wear in march in california
+l_Weather	1	what's the weather like in minneapolis

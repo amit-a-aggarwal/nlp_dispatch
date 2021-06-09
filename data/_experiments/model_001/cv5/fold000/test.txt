@@ -1,0 +1,14 @@
+Label	Weight	Text
+l_HomeAutomation	1	illuminate please
+l_HomeAutomation	1	turn off ac please
+l_HomeAutomation	1	breezeway on please
+l_HomeAutomation	1	turn dimmer off
+l_HomeAutomation	1	set lights to bright
+l_HomeAutomation	1	set lights to concentrate
+l_HomeAutomation	1	play dvd
+l_HomeAutomation	1	turn on my bedroom lights.
+l_Weather	1	current weather
+l_Weather	1	how much rain does chambersburg get a year
+l_Weather	1	what is the rain volume in sonoma county
+l_Weather	1	what is the weather in redmond
+l_Weather	1	get for me the weather conditions in sonoma county

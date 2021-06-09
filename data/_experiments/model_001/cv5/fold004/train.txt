@@ -1,0 +1,52 @@
+Label	Weight	Text
+l_HomeAutomation	1	illuminate please
+l_HomeAutomation	1	turn off ac please
+l_HomeAutomation	1	breezeway on please
+l_HomeAutomation	1	turn dimmer off
+l_HomeAutomation	1	set lights to bright
+l_HomeAutomation	1	set lights to concentrate
+l_HomeAutomation	1	play dvd
+l_HomeAutomation	1	turn on my bedroom lights.
+l_HomeAutomation	1	turn on kitchen faucet
+l_HomeAutomation	1	decrease temperature for me please
+l_HomeAutomation	1	turn on the internet in my bedroom please
+l_HomeAutomation	1	fish pond off please
+l_HomeAutomation	1	turn on thermostat please
+l_HomeAutomation	1	turn off staircase
+l_HomeAutomation	1	theater on please
+l_HomeAutomation	1	turn thermostat on 70.
+l_HomeAutomation	1	coffee bar on please
+l_HomeAutomation	1	dim kitchen lights to 25 .
+l_HomeAutomation	1	fish pond on please
+l_HomeAutomation	1	snap switch fan fifty percent
+l_HomeAutomation	1	turn off venice lamp
+l_HomeAutomation	1	set lights out in bedroom
+l_HomeAutomation	1	make some coffee
+l_HomeAutomation	1	turn off foyer lights
+l_HomeAutomation	1	turn the fan to high
+l_HomeAutomation	1	turn on bathroom heater
+l_HomeAutomation	1	make camera 1 off please
+l_HomeAutomation	1	living room lamp on please
+l_HomeAutomation	1	change temperature to seventy two degrees
+l_HomeAutomation	1	living room lamps off please
+l_Weather	1	current weather
+l_Weather	1	how much rain does chambersburg get a year
+l_Weather	1	what is the rain volume in sonoma county
+l_Weather	1	what is the weather in redmond
+l_Weather	1	get for me the weather conditions in sonoma county
+l_Weather	1	forecast in celcius
+l_Weather	1	will it snow today
+l_Weather	1	temperature of delhi in celsius please
+l_Weather	1	what will the weather be tomorrow in new york
+l_Weather	1	what's the weather going to be like in hawaii
+l_Weather	1	will it be raining in ranchi
+l_Weather	1	soliciting today's weather
+l_Weather	1	will it rain this weekend
+l_Weather	1	what to wear in march in california
+l_Weather	1	what's the weather like in minneapolis
+l_Weather	1	get florence temperature in september
+l_Weather	1	get the daily temperature greenwood indiana
+l_Weather	1	do florida residents usually need ice scrapers
+l_Weather	1	show me the forecast at alabama
+l_Weather	1	get the forcast for me
+l_Weather	1	provide me by toronto weather please

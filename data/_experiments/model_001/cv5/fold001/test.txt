@@ -1,0 +1,14 @@
+Label	Weight	Text
+l_HomeAutomation	1	turn on kitchen faucet
+l_HomeAutomation	1	decrease temperature for me please
+l_HomeAutomation	1	turn on the internet in my bedroom please
+l_HomeAutomation	1	fish pond off please
+l_HomeAutomation	1	turn on thermostat please
+l_HomeAutomation	1	turn off staircase
+l_HomeAutomation	1	theater on please
+l_HomeAutomation	1	turn thermostat on 70.
+l_Weather	1	forecast in celcius
+l_Weather	1	will it snow today
+l_Weather	1	temperature of delhi in celsius please
+l_Weather	1	what will the weather be tomorrow in new york
+l_Weather	1	what's the weather going to be like in hawaii

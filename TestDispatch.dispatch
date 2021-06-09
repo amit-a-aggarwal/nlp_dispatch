@@ -1,0 +1,40 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": true,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_Weather",
+      "appId": "5b102684-e65e-4583-a504-17b910b17c2b",
+      "authoringKey": "55d7c0f70556494c9b5d6fd1908794bd",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "Weather",
+      "id": "1"
+    },
+    {
+      "intentName": "l_HomeAutomation",
+      "appId": "6f2a331e-da8f-4558-803f-ff9cdd7868d0",
+      "authoringKey": "55d7c0f70556494c9b5d6fd1908794bd",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "Home Automation",
+      "id": "2"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2"
+  ],
+  "appId": "f41d6c25-02fa-415c-aa80-da4821f5dd1e",
+  "authoringKey": "55d7c0f70556494c9b5d6fd1908794bd",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "TestDispatch"
+}

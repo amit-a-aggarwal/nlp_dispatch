@@ -1,0 +1,24 @@
+dispatch init -n TestDispatch  --luisAuthoringKey "55d7c0f70556494c9b5d6fd1908794bd" --luisAuthoringRegion westus
+
+
+Before installing dispatch do these: 
+# let's install yarn so we can easily configure it.
+npm install -g yarn
+
+# set strict-ssl to false
+yarn config set strict-ssl false
+
+# try to install the dotnet package
+npm install -g dotnet-2.1
+
+
+dispatch add -t luis -i "<app-id-for-weather-app>" -n "<name-of-weather-app>" -v <app-version-number> -k "<your-luis-authoring-key>" --intentName l_Weather
+dispatch add -t luis -i "<app-id-for-home-automation-app>" -n "<name-of-home-automation-app>" -v <app-version-number> -k "<your-luis-authoring-key>" --intentName l_HomeAutomation
+dispatch add -t qna -i "<knowledge-base-id>" -n "<knowledge-base-name>" -k "<azure-qna-service-key1>" --intentName q_sample-qna
+
+
+dispatch add -t luis -i "5b102684-e65e-4583-a504-17b910b17c2b" -n "Weather" -v 0.1 -k "55d7c0f70556494c9b5d6fd1908794bd" --intentName l_Weather
+dispatch add -t luis -i "6f2a331e-da8f-4558-803f-ff9cdd7868d0" -n "Home Automation" -v 0.1 -k "55d7c0f70556494c9b5d6fd1908794bd" --intentName l_HomeAutomation
+
+
+Dispatch app id: f41d6c25-02fa-415c-aa80-da4821f5dd1e
